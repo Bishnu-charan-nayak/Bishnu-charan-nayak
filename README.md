@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bishnu Charan Nayak 👋</h1>
-<h3 align="center">Full-Stack Developer | IoT & Embedded Engineer | Creative Technologist</h3>
+<h3 align="center">Full-Stack Developer | IoT & Embedded Engineer | Creative Technologist | Cybersecurity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Smart+Systems;Merging+Software+%26+Hardware;AI-Driven+Development;Turning+Ideas+into+Products" />
