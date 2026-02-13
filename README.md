@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bishnu Charan Nayak 👋</h1>
-<h3 align="center">Full-Stack Developer | IoT & Embedded Engineer | Creative Technologist | Cybersecurity</h3>
+<h3 align="center">Full-Stack Developer | IoT & Embedded Engineer | Creative Technologist | Cybersecurity | Ethical Hack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Smart+Systems;Merging+Software+%26+Hardware;AI-Driven+Development;Turning+Ideas+into+Products" />
@@ -19,6 +19,7 @@ I work across **web apps, embedded systems, and AI-assisted workflows**, focusin
 
 💡 I actively use **AI tools** to accelerate development, prototype faster, and improve code quality.
 
+I complete ** Try to Hack me lab **
 ---
 
 ## 🧠 Tech Stack
@@ -28,6 +29,7 @@ I work across **web apps, embedded systems, and AI-assisted workflows**, focusin
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, React Native
 - **Backend:** Node.js, Express.js, Flask, MongoDB
 - **Automation & Testing:** Selenium
+- **Cybersecurity:** penetration tester, offensive, buritspuit 
 
 ### 🤖 AI & Productivity
 ChatGPT, Google Gemini, Lovable, Blackbox
